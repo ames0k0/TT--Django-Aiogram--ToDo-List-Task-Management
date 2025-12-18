@@ -1,1 +1,7 @@
 *.bkp
+*.sqlite3
+__pycache__
+*.py[cod]
+*.swp
+.python-version
+migrations
